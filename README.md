@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khushank Raut</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushankraut&label=Profile%20views&color=0e75b6&style=flat" alt="khushankraut" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushankraut" alt="khushankraut" /></a> </p>
-
 - 📫 How to reach me **khushankraut04@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
